@@ -1,0 +1,28 @@
+# Python byte code
+*.py[cod]
+
+# PyCharm
+.idea/
+
+dist/
+build/
+eggs/
+parts/
+bin/
+var/
+sdist/
+develop-eggs/
+__pycache__/
+.installed.cfg
+*.egg
+*.egg-info
+venv/
+creds/
+
+# installer logs
+pip-log.txt
+
+# Unit test
+.coverage/
+.tox/
+nosetests.xml
